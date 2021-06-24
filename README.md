@@ -1,7 +1,7 @@
 # Vobla
 Вобла - расширение для браузера Chrome, которое прячет дисклеймер про "иностранных агентов" из постов Медузы на фейсбуке, а также на их сайте.
 
-Они по закону обязаны везде показывать эти дисклеймеры, но мы (их читатели) не обязаны их читать ¯\_(ツ)_/¯
+Они по закону обязаны везде показывать эти дисклеймеры, но мы (читатели Медузы) не обязаны их читать ¯\_(ツ)_/¯
 
 ## Установка:
 1. Выберите в Chrome "Управление расширениями"
@@ -11,7 +11,7 @@
 # Vobla
 Vobla is a Chrome browser extension that hides  'Foreign agents' disclaimers from Meduza's facebook posts and from articles on their website.
 
-They are required by law to provide the disclaimers, but we (readers of their articles) are not obliged to read them ¯\_(ツ)_/¯
+They are required by law to provide the disclaimers, but we (Meduza's readers) are not obliged to read them ¯\_(ツ)_/¯
 
 ## To install:
 1. Go to "Manage extensions" in Chrome
